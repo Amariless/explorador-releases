@@ -40,6 +40,7 @@ Este repositorio solo contiene los ejecutables. En la pestaña **Releases** est�
 - Buscador de archivos duplicados.
 - Analizador de espacio en disco.
 - Abrir una terminal en la carpeta actual.
+- Si es tu explorador predeterminado, la opción "Mostrar en la carpeta" de otras aplicaciones (navegadores, Discord, Steam y similares) abre una pestaña en Explorador.
 - Preferencias para el tema, la carpeta de inicio, las confirmaciones de borrado y la búsqueda.
 
 ## Requisitos
